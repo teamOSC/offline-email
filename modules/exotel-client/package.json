@@ -1,0 +1,15 @@
+{
+  "name": "exotel-client",
+  "version": "1.0.0",
+  "description": "Exotel client to make a call to user's phone with email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exotel",
+    "client"
+  ],
+  "author": "TeamOSC",
+  "license": "MIT"
+}
